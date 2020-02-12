@@ -1,0 +1,7 @@
+{
+  "name": "surfshop",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
